@@ -1,4 +1,8 @@
-# kloppers-labs Homebrew tap
+<p align="center">
+  <a href="https://github.com/kloppers-labs"><img src="https://raw.githubusercontent.com/kloppers-labs/.github/main/profile/assets/logo.png" width="140" alt="Kloppers Labs logo"></a>
+</p>
+
+<h1 align="center">kloppers-labs Homebrew tap</h1>
 
 ```sh
 brew install kloppers-labs/tap/deck
